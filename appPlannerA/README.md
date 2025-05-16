@@ -1,10 +1,10 @@
 # Welcome to the **Appointment Planner** Project
 
-It was made Using React + Vite Template then Modfiied,
-Styled by Css styling and Boostrap styling,
+It was made Using React + Vite Template then Modified,
+Styled by Css styling and BootStrap styling,
 Written mostly in JSX and Using React Router to Present the Components
 
-Please Feel Free to comment and let me know if anything happnes
+Please Feel Free to comment and let me know if anything happens
 
 ## Features
 
