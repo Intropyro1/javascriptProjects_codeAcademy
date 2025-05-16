@@ -1,0 +1,15 @@
+nav.nav-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+a.nav-link.active {
+  border: 1px dashed blue;
+  border-radius: 2rem;
+  background-color: blue;
+  color: white;
+}
+
+a.nav-link:hover {
+  background-color: grey;
+}

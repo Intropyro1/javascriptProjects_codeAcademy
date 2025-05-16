@@ -1,0 +1,33 @@
+li.tileDisplay {
+    display: flex;
+    text-decoration: none;
+    flex-direction: column;
+}
+
+p.contactName {
+    box-sizing: content-box;
+    width: fit-content;
+    height: fit-content;
+    padding: 2px;
+    margin: 0;
+}
+p.contactNumber {
+    box-sizing: content-box;
+    width: fit-content;
+    height: fit-content;
+    padding: 2px;
+    margin: 0;
+}
+
+p.contactEmail {
+    box-sizing: content-box;
+    width: fit-content;
+    height: fit-content;
+    padding: 2px;
+    margin: 0;
+}
+section.appointment-tile-description {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

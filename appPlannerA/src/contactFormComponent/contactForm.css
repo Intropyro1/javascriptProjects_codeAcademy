@@ -1,0 +1,6 @@
+form#contactForm {
+  background-color: rgba(230, 224, 224, 0.349);
+  border-radius: 0.5rem;
+  border-top: 1px solid grey;
+  width: 200px;
+}
